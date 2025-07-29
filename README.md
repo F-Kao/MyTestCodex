@@ -1,15 +1,14 @@
 # MyTestCodex
 
-This repository contains simple Python scripts used for Codex testing.
+このリポジトリには、Codex のテスト用に作成したシンプルな Python スクリプトが含まれています。
 
-## Available Scripts
+## 利用可能なスクリプト
 
-- **main.py**: Prints a greeting message.
-- **calculator.py**: Provides a `Calculator` class with basic arithmetic operations and a demo.
+- **main.py**: 挨拶メッセージを表示します。
+- **calculator.py**: 基本的な算術演算を行う `Calculator` クラスとデモを提供します。
 
-Run the calculator demo:
+### デモの実行方法
 
 ```bash
 python calculator.py
 ```
-
